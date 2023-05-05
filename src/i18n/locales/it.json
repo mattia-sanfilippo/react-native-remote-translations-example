@@ -1,0 +1,13 @@
+{
+    "home": {
+        "title": "Home Page",
+        "description": "Questa è la home page"
+    },
+    "obj": {
+        "k": "Key"
+    },
+    "arr": {
+        "1": "Array value 1",
+        "2": "Array value 2"
+    }
+}
