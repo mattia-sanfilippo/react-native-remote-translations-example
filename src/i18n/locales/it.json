@@ -9,5 +9,6 @@
     "arr": {
         "1": "Array value 1",
         "2": "Array value 2"
-    }
+    },
+    "date": "Data di oggi: {{date}"
 }
